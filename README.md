@@ -6,7 +6,7 @@
 This repository contains the source code and documentation of our HCI system, built specifically for the NVIDIA Jetson TX2.
 
 * **[Watch the Demo Video on YouTube](https://youtu.be/Ef1OlU0tr-A)**
-* **[Read the Full Project Report Here](./TOUCHLESS%20HCI%20-%20Report.pdf)**
+* **[Read the Full Project Report Here](./TOUCHLESS%20HCI%20-%20Report%20-%20Bharat%20AI%20SoC.pdf)**
 
 ## Team Details
 * **Team Members: Abdullah Ajmal, Anuj Deep, Ayman Abdul Jaleel**
